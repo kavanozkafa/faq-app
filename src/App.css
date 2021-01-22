@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+  position: fixed;
+  height: 50%;
+  width: 50%;
+  top: 10%;
+  right: 25%;
+  left: 25%;
+  background: '#1a1a1d';
+}
+
